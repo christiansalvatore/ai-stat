@@ -1,5 +1,5 @@
-# Artificial Intelligence | The Hadron Academy
-y2024-2025
+# Artificial Intelligence | STAT (formerly, The Hadron Academy)
+y2025-2026
 <br>
 Scuola Universitaria Superiore IUSS Pavia
 <br>
@@ -14,6 +14,39 @@ Contact: christian.salvatore@iusspavia.it
 * Model implementation in medicine
 
 ## Program
+### Elements
+* __Lesson #1__ __(Dec 15, 2025 \| 11:00-13:00)__ <br>
+	* Overview
+	* Machine learning, artificial intelligence and deep learning
+ 
+* __Lesson #2__ __(Dec 15, 2025 \| 14:00-17:00)__ <br>
+	* Validation approaches
+	* Metrics: from conventional, to AUC, to calibration
+
+* __Lesson #3__ __(Dec 16, 2025 \| 11:00-13:00)__ <br>
+
+* __Lesson #4__ __(Dec 16, 2025 \| 14:00-17:00)__ <br>
+ 
+<br>
+
+## Material
+[__[Slides-Elements]__](TBD)
+<br>
+[__[Slides-Advanced]__](TBD)
+<br>
+
+## Exam
+[__[Link-Elements]__] TBD
+
+<br>
+
+## Comments and suggestions
+Please, leave any comment/suggestion about the course [TBD]().
+
+_______________________________________________________________________________
+
+## Archive
+## 2024-2025
 ### Elements
 * __Lesson #1__ __(November 25, 2024 \| 11:00-13:00)__ <br>
 	* Overview
@@ -63,24 +96,7 @@ Contact: christian.salvatore@iusspavia.it
  	* Explainable AI
   	* Segmentation
 	* </> python lab
- 
-<br>
 
-## Material
-[__[Slides-Elements]__](https://github.com/christiansalvatore/artificial-intelligence-hadron/tree/main/slides-elements)
-<br>
-[__[Slides-Advanced]__](https://drive.google.com/drive/u/4/folders/19BoeZ-l7i_qMfXNXy2owD1SyOM-ebUNy)
-<br>
-
-## Exam
-[__[Link-Elements]__] TBD
-
-<br>
-
-## Comments and suggestions
-Please, leave any comment/suggestion about the course [TBD]().
-
-## Archive
 ## 2023-2024
 ### Elements
 * __Lesson #1__ __(November 14, 2023 \| 11:00-13:00)__ <br>
