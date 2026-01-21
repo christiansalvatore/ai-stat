@@ -30,7 +30,7 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 
 ## Material
-[__[Slides-Elements]__](TBD)
+[__[Slides-Elements]__](https://github.com/christiansalvatore/ai-stat/tree/main/slides)
 <br>
 [__[Slides-Advanced]__](TBD)
 <br>
